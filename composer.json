@@ -1,0 +1,21 @@
+{
+	"name": "tim-rodger/trial",
+
+    "require": {
+		"purekid/mongodm": "dev-master",
+		"jsanc623/phpbenchtime": "dev-master"
+    },
+
+	"require-dev": {
+        "phpunit/phpunit": "3.8.*@dev"
+	},
+
+    "minimum-stability": "dev",
+
+    "config": {
+        "bin-dir": "bin/"
+    },
+
+    "github-protocols": [ "https" ]
+
+}
